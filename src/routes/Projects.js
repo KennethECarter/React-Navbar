@@ -1,13 +1,13 @@
 import React from "react";
 import { AiOutlineMail } from "react-icons/ai";
 
-function Contact() {
+function Projects() {
   return (
-    <div className="contact">
-      <h1>Contact</h1>
+    <div className="projects">
+      <h1>Projects</h1>
       <AiOutlineMail className="page-icon" />
     </div>
   );
 }
 
-export default Contact;
+export default Projects;
